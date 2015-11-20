@@ -7,19 +7,19 @@ app.controller('MainController', ['$scope', function($scope) {
             price: 0.99
         },
         {
-            icon: 'img/shutterbugg.jpg',
+            icon: 'img/move.jpg',
             title: 'Shutterbugg',
             developer: 'Chico Dusty',
             price: 2.99
         },
         {
-            icon: 'img/gameboard.jpg',
+            icon: 'img/move.jpg',
             title: 'Gameboard',
             developer: 'Armando P.',
             price: 1.99
         },
         {
-            icon: 'img/forecast.jpg',
+            icon: 'img/move.jpg',
             title: 'Forecast',
             developer: 'Forecast',
             price: 1.99
